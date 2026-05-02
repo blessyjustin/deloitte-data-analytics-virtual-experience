@@ -1,18 +1,42 @@
-Deloitte Data Analytics Virtual Experience
+# Deloitte Data Analytics Virtual Experience
 
-This repository contains my work for the Deloitte Data Analytics Virtual Experience (Forage).
+## 📌 Overview
 
-📌 Tasks Completed
-Task 1: Factory Downtime Analysis
--> Built a Tableau dashboard to analyze machine downtime
--> Identified Shenzhen as the highest downtime factory
--> Performed drill-down analysis to identify device-level failures
+This repository contains my work for the Deloitte Data Analytics Virtual Experience, focusing on real-world data analysis and business problem-solving.
 
-🛠 Tools Used
--> Tableau
--> Data Analysis Techniques
-📊 Key Skills Demonstrated
--> Data cleaning and transformation
--> Data visualization
--> Analytical thinking
--> Dashboard creation
+---
+
+## 🛠 Tools Used
+
+* Tableau
+* Microsoft Excel
+
+---
+
+## 📊 Task 1: Factory Downtime Analysis (Tableau)
+
+* Built an interactive dashboard to analyze machine downtime across factories
+* Identified Shenzhen as the highest downtime location
+* Performed drill-down analysis to find device-level issues
+* Found that LaserCutter devices contribute most to downtime in Shenzhen
+
+---
+
+## 📊 Task 2: Gender Pay Equality Analysis (Excel)
+
+* Analyzed employee compensation data using equality scores
+* Created a classification system:
+
+  * Fair
+  * Unfair
+  * Highly Discriminative
+* Identified patterns of inequality across factories and job roles
+
+---
+
+## 🔍 Key Skills Demonstrated
+
+* Data cleaning and transformation
+* Data visualization and dashboarding
+* Analytical thinking and problem-solving
+* Business insight generation
